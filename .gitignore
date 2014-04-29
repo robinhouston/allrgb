@@ -1,0 +1,8 @@
+.DS_Store
+*.dSYM
+*.png
+
+# Executables
+/rgbcomp
+/wilson
+/kruskal
